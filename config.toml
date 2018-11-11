@@ -1,4 +1,4 @@
-baseurl = "https://wonderful-khorana-f7c540.netlify.com"
+baseurl = "/"
 title = "johndoe"
 theme = "hugo-coder"
 languagecode = "en"
