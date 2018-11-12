@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://ack.zone"
 title = "ack.zone"
 theme = "hugo-coder"
 languagecode = "en"
