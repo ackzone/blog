@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "johndoe"
+title = "ack.zone"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -11,22 +11,21 @@ pygmentsstyle = "color"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "ackzone"
 
 [params]
-    author = "John Doe"
-    info = "Full Stack DevOps and Magician"
-    description = "John Doe's personal website"
+    author = "Jay Wallace"
+    info = "An engineer who occasionally writes"
+    description = "professional rants"
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
 
+    footercontent = "This is water 🌊"
+
+    hidecredits = true
+    hidecopyright = true
+    avatarurl = "img/avatar.jpg"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
-
-    footercontent = "Enter a text here."
-
-    hidecredits = false
-    hidecopyright = false
 
     rtl = false
 
@@ -38,17 +37,17 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://github.com/mootpt/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
+    weight = 2
+    url = "https://twitter.com/mootpt/"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin fa-2x"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://www.linkedin.com/in/cantc/"
 
 # Menu links
 [[menu.main]]
@@ -59,3 +58,4 @@ disqusShortname = "yourdiscussshortname"
     name = "About"
     weight = 2
     url = "/about/"
+

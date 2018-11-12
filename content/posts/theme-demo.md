@@ -72,3 +72,9 @@ var foo = function (bar) {
 
 console.log(foo(5));
 ```
+
+```tf
+provider "aws" {
+  region = "us-west-2"
+}
+```
