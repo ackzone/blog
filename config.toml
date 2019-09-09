@@ -23,7 +23,7 @@ disqusShortname = "ackzone"
 
     hidecredits = true
     hidecopyright = true
-    avatarurl = "img/avatar.jpg"
+    avatarurl = "img/static.png"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
